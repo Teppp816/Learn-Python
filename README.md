@@ -13,12 +13,12 @@ As a beginner learning Python, I'm using this space to:
 
 ## 📁 Projects Included
 
-| Project Name            | Description                                              |
-|-------------------------|----------------------------------------------------------|
-| Initials in ASCII Art   | Prints your initials in block-style ASCII characters     |
-| Calculator              | A simple calculator for addition, subtraction, etc.      |
-| Temperature Converter   | Converts between Celsius and Fahrenheit                  |
-| Guess the Number        | A game where you guess a randomly generated number       |
+| Project Name                   | Description                                                                                      |
+|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Initials in ASCII Art         | Prints your initials in block-style ASCII characters.                                            |
+| Furniture Store Receipt System| Simulates a point-of-sale system that generates receipts by tracking items and total cost.      |
+| Temperature Converter         | Converts temperatures between Celsius and Fahrenheit.                                            |
+| Guess the Number              | A Python game where you guess a randomly generated number.                                       |
 
 *(More coming soon as I learn!)*
 
