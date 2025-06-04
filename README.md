@@ -15,7 +15,7 @@ As a beginner learning Python, I'm using this space to:
 
 | Project Name                   | Description                                                                                      |
 |-------------------------------|--------------------------------------------------------------------------------------------------|
-| Initials in ASCII Art         | Prints your initials in block-style ASCII characters.                                            |
+| Block Letters         | Prints your initials in block-style ASCII characters.                                            |
 | Furniture Store Receipt System| Simulates a point-of-sale system that generates receipts by tracking items and total cost.      |
 | Temperature Converter         | Converts temperatures between Celsius and Fahrenheit.                                            |
 | Guess the Number              | A Python game where you guess a randomly generated number.                                       |
