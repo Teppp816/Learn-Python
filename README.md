@@ -17,7 +17,7 @@ As a beginner learning Python, I'm using this space to:
 |-------------------------------|--------------------------------------------------------------------------------------------------|
 | Block Letters         | Prints your initials in block-style ASCII characters.                                            |
 | Furniture Store Receipt System| Simulates a point-of-sale system that generates receipts by tracking items and total cost.      |
-| Temperature Converter         | Converts temperatures between Celsius and Fahrenheit.                                            |
+| magic 8 Ball         | A simple Python program that simulates the Magic 8-Ball toy for answering Yes/No questions with randomized responses.                                            |
 | Guess the Number              | A Python game where you guess a randomly generated number.                                       |
 
 *(More coming soon as I learn!)*
