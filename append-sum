@@ -13,4 +13,4 @@ def append_sum(my_list):
   return my_list
 
 # Uncomment the line below when your function is done
-# print(append_sum([1, 1, 2]))
+print(append_sum([1, 1, 2]))
